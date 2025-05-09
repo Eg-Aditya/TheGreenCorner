@@ -1,0 +1,1415 @@
+{
+    "soil": [
+        {
+          "name": "Alluvial Soil",
+          "id": 1,
+          "description": "Fertile soil deposited by rivers, perfect for growing rice, wheat, and sugarcane.",
+          "price": 22,
+          "rating": 4.8,
+          "reviews": [
+            {
+              "username": "VikasFarmer",
+              "rating": 5,
+              "comment": "Best soil for my wheat crops!",
+              "productDelivered": true,
+              "dateTime": "2024-12-06T14:00:00",
+              "likes": 45,
+              "dislikes": 2
+            }
+          ],
+          "totalSalesLastMonth": 200,
+          "sellerName": "Godavari Agro Traders",
+          "sellerAddress": {
+            "street": "Jayakwadi Road",
+            "city": "Aurangabad",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "431001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 300,
+          "categories": [
+            "Farming",
+            "Agriculture"
+          ],
+          "soilType": "Loamy Sand",
+          "season": "Kharif",
+          "tags": [
+            "Fertile",
+            "River Deposited"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/81bZJInnIKL._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81icFgQUZsL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81IvSJJtAML._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71qWPd-5EPL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91wcQxsW6wL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Saline Soil",
+          "id": 2,
+          "description": "Contains salt content, ideal for date palms and coconut trees.",
+          "price": 16,
+          "rating": 4.3,
+          "reviews": [
+            {
+              "username": "CoconutLover",
+              "rating": 4,
+              "comment": "Good for my coastal garden.",
+              "productDelivered": true,
+              "dateTime": "2024-12-07T09:30:00",
+              "likes": 20,
+              "dislikes": 5
+            }
+          ],
+          "totalSalesLastMonth": 80,
+          "sellerName": "Coastal Agri Mart",
+          "sellerAddress": {
+            "street": "Marine Drive",
+            "city": "Ratnagiri",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "415612"
+          },
+          "availability": "Limited Stock",
+          "quantityAvailable": 100,
+          "categories": [
+            "Coastal Farming"
+          ],
+          "soilType": "Sandy Loam",
+          "season": "Summer",
+          "tags": [
+            "Salty",
+            "Coastal"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61lUcSQCl6L._SL1200_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/71ZpYoXS-IL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81drUjQ59hL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71sUg8XBe-L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71sUg8XBe-L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Laterite Soil",
+          "id": 3,
+          "description": "Rich in iron and aluminum, best suited for tea, coffee, and cashew plantations.",
+          "price": 25,
+          "rating": 4.7,
+          "reviews": [
+            {
+              "username": "TeaGrower",
+              "rating": 5,
+              "comment": "Perfect for my tea plantation!",
+              "productDelivered": true,
+              "dateTime": "2024-12-08T11:15:00",
+              "likes": 50,
+              "dislikes": 1
+            }
+          ],
+          "totalSalesLastMonth": 150,
+          "sellerName": "Konkan Plantation Supplies",
+          "sellerAddress": {
+            "street": "Cashew Lane",
+            "city": "Sindhudurg",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "416812"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 200,
+          "categories": [
+            "Plantation",
+            "Organic Farming"
+          ],
+          "soilType": "Clayey",
+          "season": "Monsoon",
+          "tags": [
+            "Iron-rich",
+            "Aluminum-rich"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/61qSqpkKjUL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/71-zJHL09tL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pv303kq9L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Vermicompost Soil",
+          "id": 4,
+          "description": "Nutrient-rich organic soil made from decomposed organic material and earthworms.",
+          "price": 30,
+          "rating": 4.9,
+          "reviews": [
+            {
+              "username": "OrganicFan",
+              "rating": 5,
+              "comment": "My organic farm loves this soil!",
+              "productDelivered": true,
+              "dateTime": "2024-12-09T17:00:00",
+              "likes": 60,
+              "dislikes": 0
+            }
+          ],
+          "totalSalesLastMonth": 300,
+          "sellerName": "EcoGreen Supplies",
+          "sellerAddress": {
+            "street": "Eco Lane",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "400001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 400,
+          "categories": [
+            "Organic Gardening"
+          ],
+          "soilType": "Loamy",
+          "season": "All year round",
+          "tags": [
+            "Organic",
+            "Nutrient-rich"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/71zxEAIaI7L._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81Tv3hHwYfL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/718U5ienpLL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81xZ9QjvnxL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81r2p8RAz-L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Silt Soil",
+          "id": 5,
+          "description": "Smooth and slippery soil, best for paddy cultivation and gardening.",
+          "price": 18,
+          "rating": 4.4,
+          "reviews": [
+            {
+              "username": "PaddyFarmer",
+              "rating": 5,
+              "comment": "Excellent soil for my rice field.",
+              "productDelivered": true,
+              "dateTime": "2024-12-10T14:40:00",
+              "likes": 30,
+              "dislikes": 3
+            }
+          ],
+          "totalSalesLastMonth": 120,
+          "sellerName": "AgroMart Kolhapur",
+          "sellerAddress": {
+            "street": "Rajaram Road",
+            "city": "Kolhapur",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "416001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 250,
+          "categories": [
+            "Paddy Farming"
+          ],
+          "soilType": "Silty Loam",
+          "season": "Kharif",
+          "tags": [
+            "Smooth Texture",
+            "Water Retentive"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61fUoGkNdHL._SL1000_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81Jr97h01TL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+Sx7z2NYL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fZ+yyQZGL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81yXW4Non2L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Red Soil",
+          "id": 6,
+          "description": "Rich in iron oxide, suitable for cotton, wheat, and pulses.",
+          "price": 20,
+          "rating": 4.5,
+          "reviews": [
+            {
+              "username": "CottonFarmer88",
+              "rating": 4,
+              "comment": "Good for my cotton fields.",
+              "productDelivered": true,
+              "dateTime": "2024-12-11T10:00:00",
+              "likes": 40,
+              "dislikes": 4
+            }
+          ],
+          "totalSalesLastMonth": 100,
+          "sellerName": "IronSoil Suppliers",
+          "sellerAddress": {
+            "street": "Farmers Market",
+            "city": "Nagpur",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "440001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 300,
+          "categories": [
+            "Crop Cultivation"
+          ],
+          "soilType": "Clayey Loam",
+          "season": "Rabi",
+          "tags": [
+            "Iron Oxide",
+            "Rust Colored"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/81S84KXpkpL._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/71MSV+1GTHL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7132OtHI8pL._SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/81otiQCErFL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81oQTuFSesL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Black Cotton Soil",
+          "id": 7,
+          "description": "High clay content and moisture retention, ideal for cotton and sugarcane.",
+          "price": 28,
+          "rating": 4.8,
+          "reviews": [
+            {
+              "username": "SugarcaneFarmer",
+              "rating": 5,
+              "comment": "Holds water well, great for sugarcane.",
+              "productDelivered": true,
+              "dateTime": "2024-12-12T15:00:00",
+              "likes": 70,
+              "dislikes": 1
+            }
+          ],
+          "totalSalesLastMonth": 180,
+          "sellerName": "ClayPro Dealers",
+          "sellerAddress": {
+            "street": "BlackSoil Avenue",
+            "city": "Akola",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "444001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 400,
+          "categories": [
+            "Cash Crops"
+          ],
+          "soilType": "High Clay",
+          "season": "Monsoon",
+          "tags": [
+            "Water Retentive",
+            "Dark Soil"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61rIY7GXffL._SL1106_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/71riC0vmMKL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71riC0vmMKL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71WmZ9w-nLL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71WmZ9w-nLL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Peaty Soil",
+          "id": 8,
+          "description": "High organic matter and water-holding capacity, suitable for rice and jute crops.",
+          "price": 24,
+          "rating": 4.6,
+          "reviews": [
+            {
+              "username": "JuteExpert",
+              "rating": 5,
+              "comment": "Perfect for jute farming!",
+              "productDelivered": true,
+              "dateTime": "2024-12-13T11:30:00",
+              "likes": 35,
+              "dislikes": 2
+            }
+          ],
+          "totalSalesLastMonth": 150,
+          "sellerName": "Organic Soil Traders",
+          "sellerAddress": {
+            "street": "Peat Lane",
+            "city": "Shillong",
+            "state": "Meghalaya",
+            "country": "India",
+            "pincode": "793001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 200,
+          "categories": [
+            "Rice Farming",
+            "Organic"
+          ],
+          "soilType": "High Organic Matter",
+          "season": "Monsoon",
+          "tags": [
+            "Water Retentive",
+            "Organic"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61fUoGkNdHL._SL1000_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61fUoGkNdHL._SL1000_.jpg",
+            "https://m.media-amazon.com/images/I/81+Sx7z2NYL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fZ+yyQZGL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81yXW4Non2L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Chalky Soil",
+          "id": 9,
+          "description": "Rich in calcium carbonate, suitable for barley and grapevines.",
+          "price": 18,
+          "rating": 4.3,
+          "reviews": [
+            {
+              "username": "VineyardGrower",
+              "rating": 4,
+              "comment": "Good for my grapevines.",
+              "productDelivered": true,
+              "dateTime": "2024-12-14T09:45:00",
+              "likes": 25,
+              "dislikes": 3
+            }
+          ],
+          "totalSalesLastMonth": 100,
+          "sellerName": "Vineyard Essentials",
+          "sellerAddress": {
+            "street": "Calcium Drive",
+            "city": "Nashik",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "422001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 150,
+          "categories": [
+            "Vineyards",
+            "Barley Farming"
+          ],
+          "soilType": "Calcareous",
+          "season": "Winter",
+          "tags": [
+            "Calcium-rich",
+            "Alkaline"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61NfbGzV-mL._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61NfbGzV-mL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81I1BVNuTOL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81I1BVNuTOL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81I1BVNuTOL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Forest Soil",
+          "id": 10,
+          "description": "Rich in organic matter from decayed leaves, ideal for horticulture and fruit crops.",
+          "price": 26,
+          "rating": 4.7,
+          "reviews": [
+            {
+              "username": "AppleGrower",
+              "rating": 5,
+              "comment": "Works wonders for my apple orchard.",
+              "productDelivered": true,
+              "dateTime": "2024-12-15T13:10:00",
+              "likes": 40,
+              "dislikes": 1
+            }
+          ],
+          "totalSalesLastMonth": 200,
+          "sellerName": "EcoForest Agro",
+          "sellerAddress": {
+            "street": "Pine Street",
+            "city": "Shimla",
+            "state": "Himachal Pradesh",
+            "country": "India",
+            "pincode": "171001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 300,
+          "categories": [
+            "Fruit Farming",
+            "Horticulture"
+          ],
+          "soilType": "Organic Loam",
+          "season": "Spring",
+          "tags": [
+            "Forest-rich",
+            "Nutrient Dense"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61O0Q8-MZbL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/61O0Q8-MZbL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/71-zJHL09tL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71-zJHL09tL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Desert Soil",
+          "id": 11,
+          "description": "Sandy texture, supports cactus, millet, and bajra cultivation.",
+          "price": 15,
+          "rating": 4.2,
+          "reviews": [
+            {
+              "username": "MilletFarmer",
+              "rating": 4,
+              "comment": "Does well even in harsh conditions.",
+              "productDelivered": true,
+              "dateTime": "2024-12-16T10:25:00",
+              "likes": 30,
+              "dislikes": 5
+            }
+          ],
+          "totalSalesLastMonth": 80,
+          "sellerName": "Desert Agri Supplies",
+          "sellerAddress": {
+            "street": "Sand Dune Road",
+            "city": "Jaisalmer",
+            "state": "Rajasthan",
+            "country": "India",
+            "pincode": "345001"
+          },
+          "availability": "Limited Stock",
+          "quantityAvailable": 100,
+          "categories": [
+            "Arid Farming"
+          ],
+          "soilType": "Sandy",
+          "season": "Summer",
+          "tags": [
+            "Dry Conditions",
+            "Heat Resistant"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/51QBVc3kz7L._SL1200_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/51ksCASiygL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61hpaX2a0GL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/716o8IKn0TL._SL1200_.jpg",
+            "https://m.media-amazon.com/images/I/61HNCmkvlrL._SL1200_.jpg"
+          ]
+        },
+        {
+          "name": "Mountain Soil",
+          "id": 12,
+          "description": "Rocky and less fertile but supports tea, spices, and medicinal plants.",
+          "price": 20,
+          "rating": 4.4,
+          "reviews": [
+            {
+              "username": "HerbalFarmer",
+              "rating": 5,
+              "comment": "Great for my herbal crops!",
+              "productDelivered": true,
+              "dateTime": "2024-12-17T12:50:00",
+              "likes": 25,
+              "dislikes": 1
+            }
+          ],
+          "totalSalesLastMonth": 90,
+          "sellerName": "HillSide Traders",
+          "sellerAddress": {
+            "street": "Alpine Path",
+            "city": "Darjeeling",
+            "state": "West Bengal",
+            "country": "India",
+            "pincode": "734001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 150,
+          "categories": [
+            "Hillside Farming",
+            "Medicinal Crops"
+          ],
+          "soilType": "Rocky",
+          "season": "All year round",
+          "tags": [
+            "Hilly",
+            "Hard Terrain"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61jx4S49HUL._SL1414_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/717+7wxPQ2L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/51lnl7uQyJL.jpg",
+            "https://m.media-amazon.com/images/I/31ftUVfNjGL.jpg",
+            "https://m.media-amazon.com/images/I/41-kb9LUvJL.jpg"
+          ]
+        },
+        {
+          "name": "Loamy Soil",
+          "id": 13,
+          "description": "Perfect blend of sand, silt, and clay, suitable for all-purpose gardening and farming.",
+          "price": 30,
+          "rating": 4.9,
+          "reviews": [
+            {
+              "username": "GardenExpert",
+              "rating": 5,
+              "comment": "Best all-round soil for my plants.",
+              "productDelivered": true,
+              "dateTime": "2024-12-18T08:20:00",
+              "likes": 50,
+              "dislikes": 0
+            }
+          ],
+          "totalSalesLastMonth": 300,
+          "sellerName": "Universal AgriTech",
+          "sellerAddress": {
+            "street": "Garden Avenue",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "pincode": "560001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 400,
+          "categories": [
+            "All-Purpose"
+          ],
+          "soilType": "Balanced",
+          "season": "All year round",
+          "tags": [
+            "Versatile",
+            "Highly Fertile"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/71-zJHL09tL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pv303kq9L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Permafrost Soil",
+          "id": 14,
+          "description": "Frozen soil, ideal for research and tundra vegetation like moss and lichens.",
+          "price": 40,
+          "rating": 4,
+          "reviews": [
+            {
+              "username": "ArcticResearcher",
+              "rating": 4,
+              "comment": "Rare, but useful for my experiments.",
+              "productDelivered": true,
+              "dateTime": "2024-12-19T14:00:00",
+              "likes": 10,
+              "dislikes": 2
+            }
+          ],
+          "totalSalesLastMonth": 20,
+          "sellerName": "Polar Agro",
+          "sellerAddress": {
+            "street": "Tundra Boulevard",
+            "city": "Leh",
+            "state": "Ladakh",
+            "country": "India",
+            "pincode": "194101"
+          },
+          "availability": "Rare Stock",
+          "quantityAvailable": 50,
+          "categories": [
+            "Research"
+          ],
+          "soilType": "Frozen",
+          "season": "Winter",
+          "tags": [
+            "Frozen Conditions",
+            "Unique Use"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/71t4CwSHeiL._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81VgYZK4D9L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81tEKeJ8NsL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81tEKeJ8NsL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81tEKeJ8NsL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Volcanic Soil",
+          "id": 15,
+          "description": "Extremely fertile soil formed from volcanic ash, ideal for coffee, tea, and banana plantations.",
+          "price": 35,
+          "rating": 4.8,
+          "reviews": [
+            {
+              "username": "CoffeePlanter",
+              "rating": 5,
+              "comment": "Amazing results for my coffee crops!",
+              "productDelivered": true,
+              "dateTime": "2024-12-20T10:15:00",
+              "likes": 45,
+              "dislikes": 1
+            }
+          ],
+          "totalSalesLastMonth": 180,
+          "sellerName": "Volcano Farms",
+          "sellerAddress": {
+            "street": "Ash Drive",
+            "city": "Araku Valley",
+            "state": "Andhra Pradesh",
+            "country": "India",
+            "pincode": "531151"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 250,
+          "categories": [
+            "Coffee Farming",
+            "Banana Plantation"
+          ],
+          "soilType": "Ash Rich",
+          "season": "All year round",
+          "tags": [
+            "Highly Fertile",
+            "Volcanic"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61kci4HIJaL._SL1200_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81o-a-gLwHL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71x8imiH7uL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71x8imiH7uL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71x8imiH7uL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Alkaline Soil",
+          "id": 16,
+          "description": "High pH soil, suitable for sugar beets and barley crops.",
+          "price": 22,
+          "rating": 4.2,
+          "reviews": [
+            {
+              "username": "BarleyGrower",
+              "rating": 4,
+              "comment": "Does the job for barley.",
+              "productDelivered": true,
+              "dateTime": "2024-12-21T14:45:00",
+              "likes": 20,
+              "dislikes": 3
+            }
+          ],
+          "totalSalesLastMonth": 140,
+          "sellerName": "Alkali Agro",
+          "sellerAddress": {
+            "street": "PH Road",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "pincode": "380001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 300,
+          "categories": [
+            "Alkaline Crops"
+          ],
+          "soilType": "High pH",
+          "season": "Summer",
+          "tags": [
+            "Alkaline",
+            "Fertile"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61rydVQOR0L._SL1001_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/619Z7elKh0L._SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61cq5+xvlDL._SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61cq5+xvlDL._SL1001_.jpg",
+            "https://m.media-amazon.com/images/I/61cq5+xvlDL._SL1001_.jpg"
+          ]
+        },
+        {
+          "name": "Silty Soil",
+          "id": 17,
+          "description": "Smooth and retains moisture, excellent for wheat and vegetables.",
+          "price": 28,
+          "rating": 4.5,
+          "reviews": [
+            {
+              "username": "VegetableFarmer",
+              "rating": 5,
+              "comment": "Perfect for vegetables!",
+              "productDelivered": true,
+              "dateTime": "2024-12-22T09:30:00",
+              "likes": 30,
+              "dislikes": 0
+            }
+          ],
+          "totalSalesLastMonth": 200,
+          "sellerName": "SiltAgro Solutions",
+          "sellerAddress": {
+            "street": "Moisture Road",
+            "city": "Kanpur",
+            "state": "Uttar Pradesh",
+            "country": "India",
+            "pincode": "208001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 400,
+          "categories": [
+            "Vegetables",
+            "Wheat Farming"
+          ],
+          "soilType": "Moisture Retentive",
+          "season": "All year round",
+          "tags": [
+            "Smooth Texture",
+            "Moisture-Rich"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61mzhZQE6gL._SL1080_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61A5pwsCWtL._SL1080_.jpg",
+            "https://m.media-amazon.com/images/I/71GKsmLSXAL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/811Uf9QFT6L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/811Uf9QFT6L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Acidic Soil",
+          "id": 18,
+          "description": "Low pH soil, ideal for tea, strawberries, and blueberries.",
+          "price": 20,
+          "rating": 4.4,
+          "reviews": [
+            {
+              "username": "BerryGrower",
+              "rating": 5,
+              "comment": "Strawberries grow incredibly well!",
+              "productDelivered": true,
+              "dateTime": "2024-12-23T11:00:00",
+              "likes": 40,
+              "dislikes": 2
+            }
+          ],
+          "totalSalesLastMonth": 150,
+          "sellerName": "Acidic Growers",
+          "sellerAddress": {
+            "street": "pH Lane",
+            "city": "Darjeeling",
+            "state": "West Bengal",
+            "country": "India",
+            "pincode": "734002"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 300,
+          "categories": [
+            "Berries",
+            "Tea Farming"
+          ],
+          "soilType": "Low pH",
+          "season": "All year round",
+          "tags": [
+            "Acidic",
+            "Berry-Friendly"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/71r0V1pp40L._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81H6CkWEojL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71WvFGnYghL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71WvFGnYghL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71WvFGnYghL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Saline Soil",
+          "id": 19,
+          "description": "High salt content, supports salt-tolerant crops like barley and cotton.",
+          "price": 16,
+          "rating": 4.1,
+          "reviews": [
+            {
+              "username": "SaltCropFarmer",
+              "rating": 4,
+              "comment": "Works fine for salt-tolerant crops.",
+              "productDelivered": true,
+              "dateTime": "2024-12-24T10:15:00",
+              "likes": 18,
+              "dislikes": 3
+            }
+          ],
+          "totalSalesLastMonth": 90,
+          "sellerName": "Saltland Agri",
+          "sellerAddress": {
+            "street": "Salinity Street",
+            "city": "Bhuj",
+            "state": "Gujarat",
+            "country": "India",
+            "pincode": "370001"
+          },
+          "availability": "Limited Stock",
+          "quantityAvailable": 120,
+          "categories": [
+            "Salt-Tolerant Crops"
+          ],
+          "soilType": "High Salinity",
+          "season": "Winter",
+          "tags": [
+            "Salt-Rich",
+            "Durable"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61aRke45wBL._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81NRL7u+kwL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81NRL7u+kwL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81NRL7u+kwL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81NRL7u+kwL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Black Soil",
+          "id": 20,
+          "description": "Rich in clay and nutrients, excellent for cotton and oilseed crops.",
+          "price": 30,
+          "rating": 4.9,
+          "reviews": [
+            {
+              "username": "CottonFarmer",
+              "rating": 5,
+              "comment": "Exceptional soil for cotton farming.",
+              "productDelivered": true,
+              "dateTime": "2024-12-25T08:30:00",
+              "likes": 50,
+              "dislikes": 0
+            }
+          ],
+          "totalSalesLastMonth": 300,
+          "sellerName": "BlackGold Agro",
+          "sellerAddress": {
+            "street": "Fertile Path",
+            "city": "Nagpur",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "440001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 500,
+          "categories": [
+            "Cotton Farming",
+            "Oilseeds"
+          ],
+          "soilType": "Clay-Rich",
+          "season": "All year round",
+          "tags": [
+            "Highly Nutritious",
+            "Black Soil"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61rIY7GXffL._SL1106_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61rIY7GXffL._SL1106_.jpg",
+            "https://m.media-amazon.com/images/I/7112PXVcxmL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7112PXVcxmL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7112PXVcxmL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Alluvial Soil",
+          "id": 21,
+          "description": "Fertile soil deposited by rivers, perfect for growing rice, wheat, and sugarcane.",
+          "price": 22,
+          "rating": 4.8,
+          "reviews": [
+            {
+              "username": "VikasFarmer",
+              "rating": 5,
+              "comment": "Best soil for my wheat crops!",
+              "productDelivered": true,
+              "dateTime": "2024-12-06T14:00:00",
+              "likes": 45,
+              "dislikes": 2
+            }
+          ],
+          "totalSalesLastMonth": 200,
+          "sellerName": "Godavari Agro Traders",
+          "sellerAddress": {
+            "street": "Jayakwadi Road",
+            "city": "Aurangabad",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "431001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 300,
+          "categories": [
+            "Farming",
+            "Agriculture"
+          ],
+          "soilType": "Loamy Sand",
+          "season": "Kharif",
+          "tags": [
+            "Fertile",
+            "River Deposited"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/81bZJInnIKL._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81icFgQUZsL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81IvSJJtAML._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71qWPd-5EPL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91wcQxsW6wL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Saline Soil",
+          "id": 22,
+          "description": "Contains salt content, ideal for date palms and coconut trees.",
+          "price": 16,
+          "rating": 4.3,
+          "reviews": [
+            {
+              "username": "CoconutLover",
+              "rating": 4,
+              "comment": "Good for my coastal garden.",
+              "productDelivered": true,
+              "dateTime": "2024-12-07T09:30:00",
+              "likes": 20,
+              "dislikes": 5
+            }
+          ],
+          "totalSalesLastMonth": 80,
+          "sellerName": "Coastal Agri Mart",
+          "sellerAddress": {
+            "street": "Marine Drive",
+            "city": "Ratnagiri",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "415612"
+          },
+          "availability": "Limited Stock",
+          "quantityAvailable": 100,
+          "categories": [
+            "Coastal Farming"
+          ],
+          "soilType": "Sandy Loam",
+          "season": "Summer",
+          "tags": [
+            "Salty",
+            "Coastal"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61aRke45wBL._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81NRL7u+kwL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81NRL7u+kwL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81NRL7u+kwL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81NRL7u+kwL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Laterite Soil",
+          "id": 23,
+          "description": "Rich in iron and aluminum, best suited for tea, coffee, and cashew plantations.",
+          "price": 25,
+          "rating": 4.7,
+          "reviews": [
+            {
+              "username": "TeaGrower",
+              "rating": 5,
+              "comment": "Perfect for my tea plantation!",
+              "productDelivered": true,
+              "dateTime": "2024-12-08T11:15:00",
+              "likes": 50,
+              "dislikes": 1
+            }
+          ],
+          "totalSalesLastMonth": 150,
+          "sellerName": "Konkan Plantation Supplies",
+          "sellerAddress": {
+            "street": "Cashew Lane",
+            "city": "Sindhudurg",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "416812"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 200,
+          "categories": [
+            "Plantation",
+            "Organic Farming"
+          ],
+          "soilType": "Clayey",
+          "season": "Monsoon",
+          "tags": [
+            "Iron-rich",
+            "Aluminum-rich"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/61qSqpkKjUL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/71-zJHL09tL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pv303kq9L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Vermicompost Soil",
+          "id": 24,
+          "description": "Nutrient-rich organic soil made from decomposed organic material and earthworms.",
+          "price": 30,
+          "rating": 4.9,
+          "reviews": [
+            {
+              "username": "OrganicFan",
+              "rating": 5,
+              "comment": "My organic farm loves this soil!",
+              "productDelivered": true,
+              "dateTime": "2024-12-09T17:00:00",
+              "likes": 60,
+              "dislikes": 0
+            }
+          ],
+          "totalSalesLastMonth": 300,
+          "sellerName": "EcoGreen Supplies",
+          "sellerAddress": {
+            "street": "Eco Lane",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "400001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 400,
+          "categories": [
+            "Organic Gardening"
+          ],
+          "soilType": "Loamy",
+          "season": "All year round",
+          "tags": [
+            "Organic",
+            "Nutrient-rich"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/71zxEAIaI7L._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81Tv3hHwYfL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/718U5ienpLL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81xZ9QjvnxL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81r2p8RAz-L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Silt Soil",
+          "id": 25,
+          "description": "Smooth and slippery soil, best for paddy cultivation and gardening.",
+          "price": 18,
+          "rating": 4.4,
+          "reviews": [
+            {
+              "username": "PaddyFarmer",
+              "rating": 5,
+              "comment": "Excellent soil for my rice field.",
+              "productDelivered": true,
+              "dateTime": "2024-12-10T14:40:00",
+              "likes": 30,
+              "dislikes": 3
+            }
+          ],
+          "totalSalesLastMonth": 120,
+          "sellerName": "AgroMart Kolhapur",
+          "sellerAddress": {
+            "street": "Rajaram Road",
+            "city": "Kolhapur",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "416001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 250,
+          "categories": [
+            "Paddy Farming"
+          ],
+          "soilType": "Silty Loam",
+          "season": "Kharif",
+          "tags": [
+            "Smooth Texture",
+            "Water Retentive"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61fUoGkNdHL._SL1000_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81Jr97h01TL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81+Sx7z2NYL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fZ+yyQZGL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81yXW4Non2L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Red Soil",
+          "id": 26,
+          "description": "Rich in iron and ideal for crops like cotton, wheat, and groundnuts. Perfect for warm and dry climates.",
+          "price": 15,
+          "rating": 4.6,
+          "reviews": [
+            {
+              "username": "AdityaFarmer",
+              "rating": 5,
+              "comment": "Great quality soil for my cotton field.",
+              "productDelivered": true,
+              "dateTime": "2024-12-01T08:45:00",
+              "likes": 28,
+              "dislikes": 1
+            }
+          ],
+          "totalSalesLastMonth": 100,
+          "sellerName": "Nagpur Agro Supplies",
+          "sellerAddress": {
+            "street": "Sitabuldi Market",
+            "city": "Nagpur",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "440012"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 500,
+          "categories": [
+            "Farming",
+            "Outdoor Gardening"
+          ],
+          "soilType": "Sandy Loam",
+          "season": "Kharif",
+          "tags": [
+            "Iron-rich",
+            "Dry Climate"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/81S84KXpkpL._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/71MSV+1GTHL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7132OtHI8pL._SL1100_.jpg",
+            "https://m.media-amazon.com/images/I/81otiQCErFL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81oQTuFSesL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Black Soil",
+          "id": 27,
+          "description": "High moisture-retaining capacity. Best for growing cotton, sugarcane, and sorghum.",
+          "price": 20,
+          "rating": 4.8,
+          "reviews": [
+            {
+              "username": "ShreyaGardens",
+              "rating": 5,
+              "comment": "The soil works perfectly for sugarcane!",
+              "productDelivered": true,
+              "dateTime": "2024-12-02T10:00:00",
+              "likes": 40,
+              "dislikes": 0
+            }
+          ],
+          "totalSalesLastMonth": 150,
+          "sellerName": "Kolhapur Soil Depot",
+          "sellerAddress": {
+            "street": "Shivaji Road",
+            "city": "Kolhapur",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "416003"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 300,
+          "categories": [
+            "Farming",
+            "Agriculture"
+          ],
+          "soilType": "Clayey",
+          "season": "Rabi",
+          "tags": [
+            "Moisture-retaining",
+            "Nutrient-rich"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61rIY7GXffL._SL1106_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61rIY7GXffL._SL1106_.jpg",
+            "https://m.media-amazon.com/images/I/7112PXVcxmL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7112PXVcxmL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/7112PXVcxmL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Loamy Soil",
+          "id": 28,
+          "description": "A balanced soil type ideal for most garden plants, vegetables, and flowers.",
+          "price": 12,
+          "rating": 4.7,
+          "reviews": [
+            {
+              "username": "ManojGreen",
+              "rating": 5,
+              "comment": "My vegetables are thriving in this soil.",
+              "productDelivered": true,
+              "dateTime": "2024-12-03T15:20:00",
+              "likes": 35,
+              "dislikes": 2
+            }
+          ],
+          "totalSalesLastMonth": 250,
+          "sellerName": "Pune Garden Store",
+          "sellerAddress": {
+            "street": "Kothrud Main Road",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "411038"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 400,
+          "categories": [
+            "Home Gardening",
+            "Farming"
+          ],
+          "soilType": "Loamy",
+          "season": "All year round",
+          "tags": [
+            "Well-draining",
+            "Nutrient-rich"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/61tqpRN1iAL._SL1044_.jpg",
+            "https://m.media-amazon.com/images/I/71-zJHL09tL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pv303kq9L._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Sandy Soil",
+          "id": 29,
+          "description": "Lightweight soil with good drainage, ideal for cacti and succulents.",
+          "price": 10,
+          "rating": 4.5,
+          "reviews": [
+            {
+              "username": "NikitaPlants",
+              "rating": 4,
+              "comment": "Good soil for my succulents, but dries quickly.",
+              "productDelivered": true,
+              "dateTime": "2024-12-04T18:30:00",
+              "likes": 25,
+              "dislikes": 3
+            }
+          ],
+          "totalSalesLastMonth": 200,
+          "sellerName": "Solapur Green Supplies",
+          "sellerAddress": {
+            "street": "Shivaji Chowk",
+            "city": "Solapur",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "413001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 600,
+          "categories": [
+            "Cactus Gardening"
+          ],
+          "soilType": "Sandy",
+          "season": "Summer",
+          "tags": [
+            "Lightweight",
+            "Well-draining"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/31o9l7kCiaS.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/41Gg4baAWBS.jpg",
+            "https://m.media-amazon.com/images/I/31hCmHseOkS.jpg",
+            "https://m.media-amazon.com/images/I/31hCmHseOkS.jpg",
+            "https://m.media-amazon.com/images/I/31hCmHseOkS.jpg"
+          ]
+        },
+        {
+          "name": "Peat Soil",
+          "id": 30,
+          "description": "Acidic soil, ideal for plants like azaleas, blueberries, and camellias.",
+          "price": 18,
+          "rating": 4.6,
+          "reviews": [
+            {
+              "username": "RajeshNature",
+              "rating": 5,
+              "comment": "My azaleas are blooming beautifully!",
+              "productDelivered": true,
+              "dateTime": "2024-12-05T12:45:00",
+              "likes": 30,
+              "dislikes": 1
+            }
+          ],
+          "totalSalesLastMonth": 180,
+          "sellerName": "Mumbai Horticulture",
+          "sellerAddress": {
+            "street": "Worli Seaface",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "400030"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 250,
+          "categories": [
+            "Flower Gardening"
+          ],
+          "soilType": "Peat",
+          "season": "Spring",
+          "tags": [
+            "Acidic",
+            "Moisture-retaining"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/81z61vN-m0L._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/71fH7DIVy5L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fH7DIVy5L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fH7DIVy5L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71MZcomRqXL._SL1500_.jpg"
+          ]
+        },
+        {
+          "name": "Alluvial Soil",
+          "id": "1737108667870-1000",
+          "description": "Fertile soil deposited by rivers, perfect for growing rice, wheat, and sugarcane.",
+          "price": 22,
+          "rating": 4.8,
+          "reviews": [
+            {
+              "username": "VikasFarmer",
+              "rating": 5,
+              "comment": "Best soil for my wheat crops!",
+              "productDelivered": true,
+              "dateTime": "2024-12-06T14:00:00",
+              "likes": 45,
+              "dislikes": 2
+            }
+          ],
+          "totalSalesLastMonth": 200,
+          "sellerName": "Godavari Agro Traders",
+          "sellerAddress": {
+            "street": "Jayakwadi Road",
+            "city": "Aurangabad",
+            "state": "Maharashtra",
+            "country": "India",
+            "pincode": "431001"
+          },
+          "availability": "In Stock",
+          "quantityAvailable": 300,
+          "categories": [
+            "Farming",
+            "Agriculture"
+          ],
+          "soilType": "Loamy Sand",
+          "season": "Kharif",
+          "tags": [
+            "Fertile",
+            "River Deposited"
+          ],
+          "primaryImage": "https://m.media-amazon.com/images/I/81bZJInnIKL._SL1500_.jpg",
+          "secondaryImages": [
+            "https://m.media-amazon.com/images/I/81icFgQUZsL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81IvSJJtAML._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71qWPd-5EPL._SL1500_.jpg",
+            "dummy soil by prasad"
+          ]
+        }
+      ]
+}

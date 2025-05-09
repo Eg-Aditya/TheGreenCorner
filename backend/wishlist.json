@@ -1,0 +1,144 @@
+{
+  "wishlist": [
+    {
+      "id": "99",
+      "name": "Elephant Bush",
+      "price": 2500,
+      "discountPrice": 2300,
+      "quantity": 1,
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "VrindavanPlantLover",
+          "rating": 5,
+          "comment": "Absolutely love this plant! The leaves are vibrant, and it has significantly brightened up my living space.",
+          "productDelivered": true,
+          "dateTime": "2024-11-20T10:15:00",
+          "likes": 42,
+          "dislikes": 2
+        },
+        {
+          "username": "DesiGreenThumb",
+          "rating": 5,
+          "comment": "It was packaged well and arrived healthy. Definitely a reliable seller.",
+          "productDelivered": true,
+          "dateTime": "2024-11-19T15:48:00",
+          "likes": 35,
+          "dislikes": 1
+        },
+        {
+          "username": "MumbaiHomeDecorFanatic",
+          "rating": 4,
+          "comment": "Adds so much life to my living room. Would’ve preferred a slightly larger pot for stability.",
+          "productDelivered": true,
+          "dateTime": "2024-11-18T20:30:00",
+          "likes": 27,
+          "dislikes": 0
+        },
+        {
+          "username": "BeginnerMumbaiGardener",
+          "rating": 5,
+          "comment": "Low maintenance and perfect for beginners. Thriving wonderfully with minimal effort.",
+          "productDelivered": true,
+          "dateTime": "2024-11-17T14:10:00",
+          "likes": 30,
+          "dislikes": 3
+        },
+        {
+          "username": "NatureFanMumbai",
+          "rating": 5,
+          "comment": "Thriving beautifully in my garden! The perfect addition for any nature lover.",
+          "productDelivered": true,
+          "dateTime": "2024-11-16T12:45:00",
+          "likes": 40,
+          "dislikes": 1
+        },
+        {
+          "username": "FreshFoliagePune",
+          "rating": 4,
+          "comment": "The leaves are so vibrant and fresh. Slightly smaller than expected but still gorgeous.",
+          "productDelivered": true,
+          "dateTime": "2024-11-15T18:20:00",
+          "likes": 25,
+          "dislikes": 4
+        },
+        {
+          "username": "GiftGiverMumbai",
+          "rating": 5,
+          "comment": "Received it as a gift, totally worth it. My friend absolutely loved it!",
+          "productDelivered": true,
+          "dateTime": "2024-11-14T11:00:00",
+          "likes": 33,
+          "dislikes": 0
+        },
+        {
+          "username": "PerfectPotPune",
+          "rating": 5,
+          "comment": "The pot size recommended was just right. A lovely addition to my plant collection.",
+          "productDelivered": true,
+          "dateTime": "2024-11-13T09:30:00",
+          "likes": 20,
+          "dislikes": 2
+        },
+        {
+          "username": "PlantObsessedMumbai",
+          "rating": 5,
+          "comment": "This is my new favorite plant! It fits perfectly in my home aesthetic.",
+          "productDelivered": true,
+          "dateTime": "2024-11-12T17:40:00",
+          "likes": 50,
+          "dislikes": 1
+        },
+        {
+          "username": "FastDeliveryFanNashik",
+          "rating": 5,
+          "comment": "Fast shipping and great customer service! Will definitely buy more.",
+          "productDelivered": true,
+          "dateTime": "2024-11-11T13:15:00",
+          "likes": 45,
+          "dislikes": 0
+        }
+      ],
+      "totalSalesLastMonth": 317,
+      "sellerName": "Shree Plant Traders",
+      "availability": "In Stock",
+      "quantityAvailable": 50,
+      "categories": [
+        "Outdoor Plants",
+        "Indoor Plants"
+      ],
+      "sunlightRequirement": "Partial Shade",
+      "moistureRequirement": "Moderate",
+      "soilType": "Well-drained loamy soil",
+      "season": "Summer",
+      "growthRate": "Medium",
+      "potSizeRequired": "Medium",
+      "genus": "Portulacaria",
+      "localName": "Elephant Bush",
+      "regionalName": "Jade Plant",
+      "biologicalName": "Portulacaria Afra",
+      "botanicalName": "Portulacaria Afra",
+      "tags": [
+        "House Warming",
+        "Gift Ideas",
+        "Low Maintenance",
+        "Exotic Plants"
+      ],
+      "shippingStates": [
+        "Maharashtra (India)",
+        "Gujarat (India)",
+        "Rajasthan (India)",
+        "Karnataka (India)"
+      ],
+      "primaryImage": "https://nurserylive.com/cdn/shop/products/nurserylive-g-plant-elephant-bush-portulacaria-afra-jade-green-plant-in-4.5-inch-11-cm-ronda-No-1110-round-plastic-green-planter-558634_600x600.jpg?v=1679749890",
+      "secondaryImages": [
+        "https://nurserylive.com/cdn/shop/products/nurserylive-plant-elephant-bush-portulacaria-afra-jade-green-plant-in-4.5-inch-11-cm-ronda-No-1110-round-plastic-green-planter-1-629198_540x720.jpg?v=1679749890",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-elephant-bush-portulacaria-afra-jade-plant-green-succulent-plant-2-849130_540x720.jpg?v=1679749890",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-plant-elephant-bush-portulacaria-afra-jade-green-plant-in-4.5-inch-11-cm-ronda-No-1110-round-plastic-green-planter-3-351388_540x720.jpg?v=1679749890",
+        "https://nurserylive.com/cdn/shop/products/nurserylive-plant-elephant-bush-portulacaria-afra-jade-green-plant-in-4.5-inch-11-cm-ronda-No-1110-round-plastic-green-planter-5-192970_540x720.jpg?v=1679749890"
+      ],
+      "shoppingPolicy": "Ships within 5-7 business days.",
+      "refundPolicy": "30-day refund policy with original receipt."
+    }
+  ]
+}
